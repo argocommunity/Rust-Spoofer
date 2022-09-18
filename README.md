@@ -8,6 +8,7 @@
 # Running games
  - Rust
 - Valorant
+- Fivem
 - Metin2 (Servers)
 - MTA(Servers)
 - Tarkov

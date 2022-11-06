@@ -15,7 +15,7 @@
 - Another Games
 ## How can I buy?
 - Please come to my discord server to purchase.
-- Discord: https://discord.gg/XczeKVHyFG
+- Discord: https://discord.gg/XczeKVHyFG 
 - Discord: Argo#2048
 ## Argo Spoofer 
 - https://www.youtube.com/watch?v=Us2iJj84nDw&ab_channel=Argo
@@ -23,3 +23,4 @@
 ![unknown](https://user-images.githubusercontent.com/113839299/190916806-b51501e6-20e0-4484-b219-68ee15c2019f.png)
 
 # Note: This is a paid program because it is not a virus. All free programs contain rats and keyloggers! Do not forget it..
+.
